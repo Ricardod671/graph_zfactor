@@ -1,6 +1,6 @@
 # graph_zfactor
 
-This project create a z factor chart using the Drankchuck and Abou-Kassem equation of state.
+This project create a z factor chart using the Drankchuck and Abou-Kassem equation of state and secant method.
   
 ## Installation guide
 
