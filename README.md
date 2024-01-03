@@ -1,4 +1,4 @@
-
+![](https://github.com/Ricardod671/graph_zfactor/blob/main/z-factor.png)
 
 
 # Z Factor Chart
