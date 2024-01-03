@@ -1,6 +1,11 @@
-# graph_zfactor
 
-This project create a z factor chart using the Drankchuck and Abou-Kassem equation of state and secant method.
+
+
+# Z Factor Chart
+
+In this project, it is generate a graph depicting the gas compressibility factor (z), aiming to replicate the z plot presented in (Craft & Howkins, 1991).This involves employing the Dranchuk and Abou-Kassem correlation and implementing the secant method for accurate results. 
+
+For an extra explanation feel free to read my article on [linkeding](https://www.linkedin.com/pulse/python-code-generate-gas-compressibility-factor-z-chart-d%25C3%25ADaz-l%25C3%25B3pez-wioae)
   
 ## Installation guide
 
